@@ -6,7 +6,7 @@ root = Tk()
 
 root.geometry('500x300')
 root.resizable(0,0)
-root.title("Atyən") # Atyən   \U0001F49C
+root.title("Rafael")
 
 Label(root, text ='Şifrələmə və Deşifrələmə', font = 'arial 20 bold').pack()
 
